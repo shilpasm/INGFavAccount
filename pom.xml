@@ -84,7 +84,7 @@
 	</dependencies>
 	
         
-
+<distributionManagement>
 	<snapshotRepository>
 
 <id>artifactory</id>
